@@ -1,6 +1,6 @@
 # Hazem Abdelsatar
 
-**SENIOR SOFTWARE ENGINEER**
+**SENIOR SOFTWARE ENGINEER** 🚀
 
 Nasr City, Cairo  
 📞 (+20) 01065197611 | 📧 hazem.itios10@gmail.com | [GitHub](https://github.com/ProgHazem) | [LinkedIn](https://www.linkedin.com/in/hazem-itios10)
@@ -8,10 +8,10 @@ Nasr City, Cairo
 ## Overview
 I am a self-motivated and meticulously organized professional with a strong background in Back-end development and a passion for innovative solutions. My education at ITI has equipped me with a broad understanding of various technologies, fueling my enthusiasm for the field.
 
-- Diverse industry experience spanning Fin-tech, insurance, and software development firms
-- Proven leadership skills, successfully guiding and motivating development teams
-- Collaborative approach, working closely with DevOps teams to build robust infrastructure
-- Expertise in Back-end development, with a keen interest in emerging technologies
+- Diverse industry experience spanning Fin-tech, insurance, and software development firms 💼
+- Proven leadership skills, successfully guiding and motivating development teams 👨‍💻
+- Collaborative approach, working closely with DevOps teams to build robust infrastructure 🤝
+- Expertise in Back-end development, with a keen interest in emerging technologies 💡
 
 ## Experience
 **Tafweela Tahrir, Cairo**  
@@ -90,9 +90,9 @@ July. 2020 - Jan. 2021
 - **Others**: Message Broker RabbitMQ, Version Control, Jira, Notion, Agile Methodology
 
 ## Personal Skills
-- Positive attitude at work
-- Acting as a team player with the ability to work well under pressure
+- Positive attitude at work 😊
+- Acting as a team player with the ability to work well under pressure 👥
 
 ## Languages
-- English
-- Arabic
+- English 🇬🇧
+- Arabic 🇪🇬
